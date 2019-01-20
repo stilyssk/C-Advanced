@@ -1,0 +1,11 @@
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.csprojAssemblyReference.cache
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.AssemblyInfoInputs.cache
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.AssemblyInfo.cs
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.deps.json
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.runtimeconfig.json
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.runtimeconfig.dev.json
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.dll
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.pdb
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.dll
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.pdb

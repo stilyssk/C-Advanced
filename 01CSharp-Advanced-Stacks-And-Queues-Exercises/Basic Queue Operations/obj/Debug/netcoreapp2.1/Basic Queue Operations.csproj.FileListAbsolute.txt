@@ -1,0 +1,10 @@
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Basic Queue Operations\obj\Debug\netcoreapp2.1\Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Basic Queue Operations\obj\Debug\netcoreapp2.1\Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Basic Queue Operations\obj\Debug\netcoreapp2.1\Basic Queue Operations.AssemblyInfo.cs
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Basic Queue Operations\bin\Debug\netcoreapp2.1\Basic Queue Operations.deps.json
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Basic Queue Operations\bin\Debug\netcoreapp2.1\Basic Queue Operations.runtimeconfig.json
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Basic Queue Operations\bin\Debug\netcoreapp2.1\Basic Queue Operations.runtimeconfig.dev.json
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Basic Queue Operations\bin\Debug\netcoreapp2.1\Basic Queue Operations.dll
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Basic Queue Operations\bin\Debug\netcoreapp2.1\Basic Queue Operations.pdb
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Basic Queue Operations\obj\Debug\netcoreapp2.1\Basic Queue Operations.dll
+C:\Users\StilyTest\Desktop\C# Advanced\01CSharp-Advanced-Stacks-And-Queues-Exercises\Basic Queue Operations\obj\Debug\netcoreapp2.1\Basic Queue Operations.pdb
