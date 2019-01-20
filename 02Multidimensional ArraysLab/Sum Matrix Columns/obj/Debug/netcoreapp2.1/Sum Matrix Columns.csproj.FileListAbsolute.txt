@@ -1,0 +1,11 @@
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional ArraysLab\Sum Matrix Columns\obj\Debug\netcoreapp2.1\Sum Matrix Columns.csprojAssemblyReference.cache
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional ArraysLab\Sum Matrix Columns\obj\Debug\netcoreapp2.1\Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional ArraysLab\Sum Matrix Columns\obj\Debug\netcoreapp2.1\Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional ArraysLab\Sum Matrix Columns\obj\Debug\netcoreapp2.1\Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional ArraysLab\Sum Matrix Columns\bin\Debug\netcoreapp2.1\Sum Matrix Columns.deps.json
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional ArraysLab\Sum Matrix Columns\bin\Debug\netcoreapp2.1\Sum Matrix Columns.runtimeconfig.json
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional ArraysLab\Sum Matrix Columns\bin\Debug\netcoreapp2.1\Sum Matrix Columns.runtimeconfig.dev.json
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional ArraysLab\Sum Matrix Columns\bin\Debug\netcoreapp2.1\Sum Matrix Columns.dll
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional ArraysLab\Sum Matrix Columns\bin\Debug\netcoreapp2.1\Sum Matrix Columns.pdb
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional ArraysLab\Sum Matrix Columns\obj\Debug\netcoreapp2.1\Sum Matrix Columns.dll
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional ArraysLab\Sum Matrix Columns\obj\Debug\netcoreapp2.1\Sum Matrix Columns.pdb
