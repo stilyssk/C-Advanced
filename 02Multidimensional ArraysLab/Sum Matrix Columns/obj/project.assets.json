@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\stilysskHP\\.nuget\\packages\\": {},
+    "C:\\Users\\StilyTest\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stilysskHP\\Desktop\\C#Advanced\\january2019\\C-Advanced\\02Multidimensional ArraysLab\\Sum Matrix Columns\\Sum Matrix Columns.csproj",
+      "projectUniqueName": "C:\\Users\\StilyTest\\Desktop\\C# Advanced\\C-Advanced\\02Multidimensional ArraysLab\\Sum Matrix Columns\\Sum Matrix Columns.csproj",
       "projectName": "Sum Matrix Columns",
-      "projectPath": "C:\\Users\\stilysskHP\\Desktop\\C#Advanced\\january2019\\C-Advanced\\02Multidimensional ArraysLab\\Sum Matrix Columns\\Sum Matrix Columns.csproj",
-      "packagesPath": "C:\\Users\\stilysskHP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stilysskHP\\Desktop\\C#Advanced\\january2019\\C-Advanced\\02Multidimensional ArraysLab\\Sum Matrix Columns\\obj\\",
+      "projectPath": "C:\\Users\\StilyTest\\Desktop\\C# Advanced\\C-Advanced\\02Multidimensional ArraysLab\\Sum Matrix Columns\\Sum Matrix Columns.csproj",
+      "packagesPath": "C:\\Users\\StilyTest\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\StilyTest\\Desktop\\C# Advanced\\C-Advanced\\02Multidimensional ArraysLab\\Sum Matrix Columns\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\stilysskHP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\StilyTest\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

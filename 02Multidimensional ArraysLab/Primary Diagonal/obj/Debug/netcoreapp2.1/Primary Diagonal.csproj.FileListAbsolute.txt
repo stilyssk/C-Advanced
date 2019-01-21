@@ -1,0 +1,10 @@
+C:\Users\StilyTest\Desktop\C# Advanced\C-Advanced\02Multidimensional ArraysLab\Primary Diagonal\bin\Debug\netcoreapp2.1\Primary Diagonal.deps.json
+C:\Users\StilyTest\Desktop\C# Advanced\C-Advanced\02Multidimensional ArraysLab\Primary Diagonal\bin\Debug\netcoreapp2.1\Primary Diagonal.runtimeconfig.json
+C:\Users\StilyTest\Desktop\C# Advanced\C-Advanced\02Multidimensional ArraysLab\Primary Diagonal\bin\Debug\netcoreapp2.1\Primary Diagonal.runtimeconfig.dev.json
+C:\Users\StilyTest\Desktop\C# Advanced\C-Advanced\02Multidimensional ArraysLab\Primary Diagonal\bin\Debug\netcoreapp2.1\Primary Diagonal.dll
+C:\Users\StilyTest\Desktop\C# Advanced\C-Advanced\02Multidimensional ArraysLab\Primary Diagonal\bin\Debug\netcoreapp2.1\Primary Diagonal.pdb
+C:\Users\StilyTest\Desktop\C# Advanced\C-Advanced\02Multidimensional ArraysLab\Primary Diagonal\obj\Debug\netcoreapp2.1\Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\StilyTest\Desktop\C# Advanced\C-Advanced\02Multidimensional ArraysLab\Primary Diagonal\obj\Debug\netcoreapp2.1\Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\StilyTest\Desktop\C# Advanced\C-Advanced\02Multidimensional ArraysLab\Primary Diagonal\obj\Debug\netcoreapp2.1\Primary Diagonal.AssemblyInfo.cs
+C:\Users\StilyTest\Desktop\C# Advanced\C-Advanced\02Multidimensional ArraysLab\Primary Diagonal\obj\Debug\netcoreapp2.1\Primary Diagonal.dll
+C:\Users\StilyTest\Desktop\C# Advanced\C-Advanced\02Multidimensional ArraysLab\Primary Diagonal\obj\Debug\netcoreapp2.1\Primary Diagonal.pdb
