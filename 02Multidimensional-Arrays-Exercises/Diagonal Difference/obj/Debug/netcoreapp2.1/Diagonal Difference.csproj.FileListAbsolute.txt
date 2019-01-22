@@ -1,0 +1,10 @@
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Diagonal Difference\bin\Debug\netcoreapp2.1\Diagonal Difference.deps.json
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Diagonal Difference\bin\Debug\netcoreapp2.1\Diagonal Difference.runtimeconfig.json
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Diagonal Difference\bin\Debug\netcoreapp2.1\Diagonal Difference.runtimeconfig.dev.json
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Diagonal Difference\bin\Debug\netcoreapp2.1\Diagonal Difference.dll
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Diagonal Difference\bin\Debug\netcoreapp2.1\Diagonal Difference.pdb
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Diagonal Difference\obj\Debug\netcoreapp2.1\Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Diagonal Difference\obj\Debug\netcoreapp2.1\Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Diagonal Difference\obj\Debug\netcoreapp2.1\Diagonal Difference.AssemblyInfo.cs
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Diagonal Difference\obj\Debug\netcoreapp2.1\Diagonal Difference.dll
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Diagonal Difference\obj\Debug\netcoreapp2.1\Diagonal Difference.pdb
