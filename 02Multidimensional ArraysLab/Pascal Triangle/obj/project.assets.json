@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\StilyTest\\.nuget\\packages\\": {},
+    "C:\\Users\\stilysskHP\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\StilyTest\\Desktop\\C# Advanced\\C-Advanced\\02Multidimensional ArraysLab\\Pascal Triangle\\Pascal Triangle.csproj",
+      "projectUniqueName": "C:\\Users\\stilysskHP\\Desktop\\C#Advanced\\january2019\\C-Advanced\\02Multidimensional ArraysLab\\Pascal Triangle\\Pascal Triangle.csproj",
       "projectName": "Pascal Triangle",
-      "projectPath": "C:\\Users\\StilyTest\\Desktop\\C# Advanced\\C-Advanced\\02Multidimensional ArraysLab\\Pascal Triangle\\Pascal Triangle.csproj",
-      "packagesPath": "C:\\Users\\StilyTest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\StilyTest\\Desktop\\C# Advanced\\C-Advanced\\02Multidimensional ArraysLab\\Pascal Triangle\\obj\\",
+      "projectPath": "C:\\Users\\stilysskHP\\Desktop\\C#Advanced\\january2019\\C-Advanced\\02Multidimensional ArraysLab\\Pascal Triangle\\Pascal Triangle.csproj",
+      "packagesPath": "C:\\Users\\stilysskHP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\stilysskHP\\Desktop\\C#Advanced\\january2019\\C-Advanced\\02Multidimensional ArraysLab\\Pascal Triangle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\StilyTest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\stilysskHP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
