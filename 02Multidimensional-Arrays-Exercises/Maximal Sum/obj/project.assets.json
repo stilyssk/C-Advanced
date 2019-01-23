@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\StilyTest\\Desktop\\C# Advancedbak\\02Multidimensional-Arrays-Exercises\\2x2 Squares in Matrix\\2x2 Squares in Matrix.csproj",
-      "projectName": "2x2 Squares in Matrix",
-      "projectPath": "C:\\Users\\StilyTest\\Desktop\\C# Advancedbak\\02Multidimensional-Arrays-Exercises\\2x2 Squares in Matrix\\2x2 Squares in Matrix.csproj",
+      "projectUniqueName": "C:\\Users\\StilyTest\\Desktop\\C# Advancedbak\\02Multidimensional-Arrays-Exercises\\Maximal Sum\\Maximal Sum.csproj",
+      "projectName": "Maximal Sum",
+      "projectPath": "C:\\Users\\StilyTest\\Desktop\\C# Advancedbak\\02Multidimensional-Arrays-Exercises\\Maximal Sum\\Maximal Sum.csproj",
       "packagesPath": "C:\\Users\\StilyTest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\StilyTest\\Desktop\\C# Advancedbak\\02Multidimensional-Arrays-Exercises\\2x2 Squares in Matrix\\obj\\",
+      "outputPath": "C:\\Users\\StilyTest\\Desktop\\C# Advancedbak\\02Multidimensional-Arrays-Exercises\\Maximal Sum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

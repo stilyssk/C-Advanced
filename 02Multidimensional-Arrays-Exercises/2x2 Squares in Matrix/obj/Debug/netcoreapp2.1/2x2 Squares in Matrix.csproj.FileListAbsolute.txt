@@ -9,3 +9,14 @@ C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional
 C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2x2 Squares in Matrix.AssemblyInfo.cs
 C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2x2 Squares in Matrix.dll
 C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2x2 Squares in Matrix.pdb
+C:\Users\StilyTest\Desktop\C# Advancedbak\02Multidimensional-Arrays-Exercises\2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\2x2 Squares in Matrix.deps.json
+C:\Users\StilyTest\Desktop\C# Advancedbak\02Multidimensional-Arrays-Exercises\2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\2x2 Squares in Matrix.runtimeconfig.json
+C:\Users\StilyTest\Desktop\C# Advancedbak\02Multidimensional-Arrays-Exercises\2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\2x2 Squares in Matrix.runtimeconfig.dev.json
+C:\Users\StilyTest\Desktop\C# Advancedbak\02Multidimensional-Arrays-Exercises\2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\2x2 Squares in Matrix.dll
+C:\Users\StilyTest\Desktop\C# Advancedbak\02Multidimensional-Arrays-Exercises\2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\2x2 Squares in Matrix.pdb
+C:\Users\StilyTest\Desktop\C# Advancedbak\02Multidimensional-Arrays-Exercises\2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2x2 Squares in Matrix.csprojAssemblyReference.cache
+C:\Users\StilyTest\Desktop\C# Advancedbak\02Multidimensional-Arrays-Exercises\2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2x2 Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\StilyTest\Desktop\C# Advancedbak\02Multidimensional-Arrays-Exercises\2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2x2 Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\StilyTest\Desktop\C# Advancedbak\02Multidimensional-Arrays-Exercises\2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2x2 Squares in Matrix.AssemblyInfo.cs
+C:\Users\StilyTest\Desktop\C# Advancedbak\02Multidimensional-Arrays-Exercises\2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2x2 Squares in Matrix.dll
+C:\Users\StilyTest\Desktop\C# Advancedbak\02Multidimensional-Arrays-Exercises\2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2x2 Squares in Matrix.pdb
