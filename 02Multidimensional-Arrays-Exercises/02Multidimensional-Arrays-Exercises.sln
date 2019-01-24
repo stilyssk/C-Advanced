@@ -7,7 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diagonal Difference", "Diag
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2x2 Squares in Matrix", "2x2 Squares in Matrix\2x2 Squares in Matrix.csproj", "{6E02A616-E012-4F48-9E4E-36F0E2D7DDF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximal Sum", "Maximal Sum\Maximal Sum.csproj", "{5B6B4165-CB5C-490A-852C-E5FACE39C2F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximal Sum", "Maximal Sum\Maximal Sum.csproj", "{5B6B4165-CB5C-490A-852C-E5FACE39C2F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix shuffling", "Matrix shuffling\Matrix shuffling.csproj", "{B43D2C1B-4365-470E-BD2F-525C3D02834B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake Moves", "Snake Moves\Snake Moves.csproj", "{15590BC2-0F39-4D37-AA01-ABF31C94D24B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bomb the Basement", "Bomb the Basement\Bomb the Basement.csproj", "{05E32A52-28A1-45A2-8468-F9658FED99E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knight Game", "Knight Game\Knight Game.csproj", "{4DD79A05-206B-4095-97EF-24060694858D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +35,22 @@ Global
 		{5B6B4165-CB5C-490A-852C-E5FACE39C2F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B6B4165-CB5C-490A-852C-E5FACE39C2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B6B4165-CB5C-490A-852C-E5FACE39C2F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B43D2C1B-4365-470E-BD2F-525C3D02834B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43D2C1B-4365-470E-BD2F-525C3D02834B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43D2C1B-4365-470E-BD2F-525C3D02834B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43D2C1B-4365-470E-BD2F-525C3D02834B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15590BC2-0F39-4D37-AA01-ABF31C94D24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15590BC2-0F39-4D37-AA01-ABF31C94D24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15590BC2-0F39-4D37-AA01-ABF31C94D24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15590BC2-0F39-4D37-AA01-ABF31C94D24B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05E32A52-28A1-45A2-8468-F9658FED99E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E32A52-28A1-45A2-8468-F9658FED99E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E32A52-28A1-45A2-8468-F9658FED99E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E32A52-28A1-45A2-8468-F9658FED99E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD79A05-206B-4095-97EF-24060694858D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD79A05-206B-4095-97EF-24060694858D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD79A05-206B-4095-97EF-24060694858D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD79A05-206B-4095-97EF-24060694858D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

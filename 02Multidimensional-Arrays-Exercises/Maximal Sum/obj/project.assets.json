@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\StilyTest\\.nuget\\packages\\": {},
+    "C:\\Users\\stilysskHP\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\StilyTest\\Desktop\\C# Advancedbak\\02Multidimensional-Arrays-Exercises\\Maximal Sum\\Maximal Sum.csproj",
+      "projectUniqueName": "C:\\Users\\stilysskHP\\Desktop\\C#Advanced\\january2019\\C-Advanced\\02Multidimensional-Arrays-Exercises\\Maximal Sum\\Maximal Sum.csproj",
       "projectName": "Maximal Sum",
-      "projectPath": "C:\\Users\\StilyTest\\Desktop\\C# Advancedbak\\02Multidimensional-Arrays-Exercises\\Maximal Sum\\Maximal Sum.csproj",
-      "packagesPath": "C:\\Users\\StilyTest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\StilyTest\\Desktop\\C# Advancedbak\\02Multidimensional-Arrays-Exercises\\Maximal Sum\\obj\\",
+      "projectPath": "C:\\Users\\stilysskHP\\Desktop\\C#Advanced\\january2019\\C-Advanced\\02Multidimensional-Arrays-Exercises\\Maximal Sum\\Maximal Sum.csproj",
+      "packagesPath": "C:\\Users\\stilysskHP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\stilysskHP\\Desktop\\C#Advanced\\january2019\\C-Advanced\\02Multidimensional-Arrays-Exercises\\Maximal Sum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\StilyTest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\stilysskHP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

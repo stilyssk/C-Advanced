@@ -1,0 +1,11 @@
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Snake Moves\bin\Debug\netcoreapp2.1\Snake Moves.deps.json
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Snake Moves\bin\Debug\netcoreapp2.1\Snake Moves.runtimeconfig.json
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Snake Moves\bin\Debug\netcoreapp2.1\Snake Moves.runtimeconfig.dev.json
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Snake Moves\bin\Debug\netcoreapp2.1\Snake Moves.dll
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Snake Moves\bin\Debug\netcoreapp2.1\Snake Moves.pdb
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Snake Moves\obj\Debug\netcoreapp2.1\Snake Moves.csprojAssemblyReference.cache
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Snake Moves\obj\Debug\netcoreapp2.1\Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Snake Moves\obj\Debug\netcoreapp2.1\Snake Moves.AssemblyInfoInputs.cache
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Snake Moves\obj\Debug\netcoreapp2.1\Snake Moves.AssemblyInfo.cs
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Snake Moves\obj\Debug\netcoreapp2.1\Snake Moves.dll
+C:\Users\stilysskHP\Desktop\C#Advanced\january2019\C-Advanced\02Multidimensional-Arrays-Exercises\Snake Moves\obj\Debug\netcoreapp2.1\Snake Moves.pdb
