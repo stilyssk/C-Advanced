@@ -1,0 +1,11 @@
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Average Student Grades\bin\Debug\netcoreapp2.1\Average Student Grades.deps.json
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Average Student Grades\bin\Debug\netcoreapp2.1\Average Student Grades.runtimeconfig.json
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Average Student Grades\bin\Debug\netcoreapp2.1\Average Student Grades.runtimeconfig.dev.json
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Average Student Grades\bin\Debug\netcoreapp2.1\Average Student Grades.dll
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Average Student Grades\bin\Debug\netcoreapp2.1\Average Student Grades.pdb
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Average Student Grades\obj\Debug\netcoreapp2.1\Average Student Grades.csprojAssemblyReference.cache
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Average Student Grades\obj\Debug\netcoreapp2.1\Average Student Grades.csproj.CoreCompileInputs.cache
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Average Student Grades\obj\Debug\netcoreapp2.1\Average Student Grades.AssemblyInfoInputs.cache
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Average Student Grades\obj\Debug\netcoreapp2.1\Average Student Grades.AssemblyInfo.cs
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Average Student Grades\obj\Debug\netcoreapp2.1\Average Student Grades.dll
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Average Student Grades\obj\Debug\netcoreapp2.1\Average Student Grades.pdb

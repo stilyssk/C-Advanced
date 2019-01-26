@@ -1,0 +1,11 @@
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.csprojAssemblyReference.cache
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.csproj.CoreCompileInputs.cache
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.AssemblyInfoInputs.cache
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.AssemblyInfo.cs
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.deps.json
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.runtimeconfig.json
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.runtimeconfig.dev.json
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.dll
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.pdb
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.dll
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.pdb
