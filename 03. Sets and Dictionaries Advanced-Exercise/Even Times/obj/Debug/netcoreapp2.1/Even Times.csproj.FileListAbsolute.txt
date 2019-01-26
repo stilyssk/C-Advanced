@@ -1,0 +1,11 @@
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Even Times\bin\Debug\netcoreapp2.1\Even Times.deps.json
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Even Times\bin\Debug\netcoreapp2.1\Even Times.runtimeconfig.json
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Even Times\bin\Debug\netcoreapp2.1\Even Times.runtimeconfig.dev.json
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Even Times\bin\Debug\netcoreapp2.1\Even Times.dll
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Even Times\bin\Debug\netcoreapp2.1\Even Times.pdb
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Even Times\obj\Debug\netcoreapp2.1\Even Times.csprojAssemblyReference.cache
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Even Times\obj\Debug\netcoreapp2.1\Even Times.csproj.CoreCompileInputs.cache
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Even Times\obj\Debug\netcoreapp2.1\Even Times.AssemblyInfoInputs.cache
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Even Times\obj\Debug\netcoreapp2.1\Even Times.AssemblyInfo.cs
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Even Times\obj\Debug\netcoreapp2.1\Even Times.dll
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Even Times\obj\Debug\netcoreapp2.1\Even Times.pdb

@@ -1,0 +1,11 @@
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Unique Usernames\bin\Debug\netcoreapp2.1\Unique Usernames.deps.json
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Unique Usernames\bin\Debug\netcoreapp2.1\Unique Usernames.runtimeconfig.json
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Unique Usernames\bin\Debug\netcoreapp2.1\Unique Usernames.runtimeconfig.dev.json
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Unique Usernames\bin\Debug\netcoreapp2.1\Unique Usernames.dll
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Unique Usernames\bin\Debug\netcoreapp2.1\Unique Usernames.pdb
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Unique Usernames\obj\Debug\netcoreapp2.1\Unique Usernames.csprojAssemblyReference.cache
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Unique Usernames\obj\Debug\netcoreapp2.1\Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Unique Usernames\obj\Debug\netcoreapp2.1\Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Unique Usernames\obj\Debug\netcoreapp2.1\Unique Usernames.AssemblyInfo.cs
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Unique Usernames\obj\Debug\netcoreapp2.1\Unique Usernames.dll
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Unique Usernames\obj\Debug\netcoreapp2.1\Unique Usernames.pdb

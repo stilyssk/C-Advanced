@@ -1,0 +1,11 @@
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Periodic Table\bin\Debug\netcoreapp2.1\Periodic Table.deps.json
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Periodic Table\bin\Debug\netcoreapp2.1\Periodic Table.runtimeconfig.json
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Periodic Table\bin\Debug\netcoreapp2.1\Periodic Table.runtimeconfig.dev.json
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Periodic Table\bin\Debug\netcoreapp2.1\Periodic Table.dll
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Periodic Table\bin\Debug\netcoreapp2.1\Periodic Table.pdb
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Periodic Table\obj\Debug\netcoreapp2.1\Periodic Table.csprojAssemblyReference.cache
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Periodic Table\obj\Debug\netcoreapp2.1\Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Periodic Table\obj\Debug\netcoreapp2.1\Periodic Table.AssemblyInfoInputs.cache
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Periodic Table\obj\Debug\netcoreapp2.1\Periodic Table.AssemblyInfo.cs
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Periodic Table\obj\Debug\netcoreapp2.1\Periodic Table.dll
+C:\Users\stilysskHP\source\repos\03. Sets and Dictionaries Advanced-Exercise\Periodic Table\obj\Debug\netcoreapp2.1\Periodic Table.pdb
