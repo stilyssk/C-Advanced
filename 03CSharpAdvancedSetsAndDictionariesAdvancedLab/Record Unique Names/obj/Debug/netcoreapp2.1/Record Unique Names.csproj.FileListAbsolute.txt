@@ -1,0 +1,10 @@
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.deps.json
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.runtimeconfig.json
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.runtimeconfig.dev.json
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.dll
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.pdb
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.csproj.CoreCompileInputs.cache
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.AssemblyInfoInputs.cache
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.AssemblyInfo.cs
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.dll
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.pdb

@@ -1,0 +1,10 @@
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Parking Lot\bin\Debug\netcoreapp2.1\Parking Lot.deps.json
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Parking Lot\bin\Debug\netcoreapp2.1\Parking Lot.runtimeconfig.json
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Parking Lot\bin\Debug\netcoreapp2.1\Parking Lot.runtimeconfig.dev.json
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Parking Lot\bin\Debug\netcoreapp2.1\Parking Lot.dll
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Parking Lot\bin\Debug\netcoreapp2.1\Parking Lot.pdb
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Parking Lot\obj\Debug\netcoreapp2.1\Parking Lot.csproj.CoreCompileInputs.cache
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Parking Lot\obj\Debug\netcoreapp2.1\Parking Lot.AssemblyInfoInputs.cache
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Parking Lot\obj\Debug\netcoreapp2.1\Parking Lot.AssemblyInfo.cs
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Parking Lot\obj\Debug\netcoreapp2.1\Parking Lot.dll
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\Parking Lot\obj\Debug\netcoreapp2.1\Parking Lot.pdb

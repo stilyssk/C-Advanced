@@ -1,0 +1,11 @@
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\SoftUni Party\bin\Debug\netcoreapp2.1\SoftUni Party.deps.json
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\SoftUni Party\bin\Debug\netcoreapp2.1\SoftUni Party.runtimeconfig.json
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\SoftUni Party\bin\Debug\netcoreapp2.1\SoftUni Party.runtimeconfig.dev.json
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\SoftUni Party\bin\Debug\netcoreapp2.1\SoftUni Party.dll
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\SoftUni Party\bin\Debug\netcoreapp2.1\SoftUni Party.pdb
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\SoftUni Party\obj\Debug\netcoreapp2.1\SoftUni Party.csproj.CoreCompileInputs.cache
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\SoftUni Party\obj\Debug\netcoreapp2.1\SoftUni Party.AssemblyInfoInputs.cache
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\SoftUni Party\obj\Debug\netcoreapp2.1\SoftUni Party.AssemblyInfo.cs
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\SoftUni Party\obj\Debug\netcoreapp2.1\SoftUni Party.dll
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\SoftUni Party\obj\Debug\netcoreapp2.1\SoftUni Party.pdb
+D:\C#Advanced\january2019\C-Advanced\03CSharpAdvancedSetsAndDictionariesAdvancedLab\SoftUni Party\obj\Debug\netcoreapp2.1\SoftUni Party.csprojAssemblyReference.cache
