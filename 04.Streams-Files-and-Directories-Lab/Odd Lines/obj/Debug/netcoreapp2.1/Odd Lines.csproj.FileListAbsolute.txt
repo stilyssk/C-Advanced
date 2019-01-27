@@ -1,0 +1,12 @@
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Odd Lines\bin\Debug\netcoreapp2.1\Odd Lines.deps.json
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Odd Lines\bin\Debug\netcoreapp2.1\Odd Lines.runtimeconfig.json
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Odd Lines\bin\Debug\netcoreapp2.1\Odd Lines.runtimeconfig.dev.json
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Odd Lines\bin\Debug\netcoreapp2.1\Odd Lines.dll
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Odd Lines\bin\Debug\netcoreapp2.1\Odd Lines.pdb
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Odd Lines\obj\Debug\netcoreapp2.1\Odd Lines.csprojAssemblyReference.cache
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Odd Lines\obj\Debug\netcoreapp2.1\Odd Lines.csproj.CoreCompileInputs.cache
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Odd Lines\obj\Debug\netcoreapp2.1\Odd Lines.AssemblyInfoInputs.cache
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Odd Lines\obj\Debug\netcoreapp2.1\Odd Lines.AssemblyInfo.cs
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Odd Lines\obj\Debug\netcoreapp2.1\Odd Lines.dll
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Odd Lines\obj\Debug\netcoreapp2.1\Odd Lines.pdb
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Odd Lines\bin\Debug\netcoreapp2.1\Resources\01. Odd Lines\Input.txt

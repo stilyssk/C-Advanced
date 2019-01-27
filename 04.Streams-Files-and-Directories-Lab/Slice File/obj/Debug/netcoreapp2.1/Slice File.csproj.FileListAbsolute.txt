@@ -1,0 +1,12 @@
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Slice File\bin\Debug\netcoreapp2.1\sliceMe.txt
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Slice File\bin\Debug\netcoreapp2.1\Slice File.deps.json
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Slice File\bin\Debug\netcoreapp2.1\Slice File.runtimeconfig.json
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Slice File\bin\Debug\netcoreapp2.1\Slice File.runtimeconfig.dev.json
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Slice File\bin\Debug\netcoreapp2.1\Slice File.dll
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Slice File\bin\Debug\netcoreapp2.1\Slice File.pdb
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Slice File\obj\Debug\netcoreapp2.1\Slice File.csprojAssemblyReference.cache
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Slice File\obj\Debug\netcoreapp2.1\Slice File.csproj.CoreCompileInputs.cache
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Slice File\obj\Debug\netcoreapp2.1\Slice File.AssemblyInfoInputs.cache
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Slice File\obj\Debug\netcoreapp2.1\Slice File.AssemblyInfo.cs
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Slice File\obj\Debug\netcoreapp2.1\Slice File.dll
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Slice File\obj\Debug\netcoreapp2.1\Slice File.pdb

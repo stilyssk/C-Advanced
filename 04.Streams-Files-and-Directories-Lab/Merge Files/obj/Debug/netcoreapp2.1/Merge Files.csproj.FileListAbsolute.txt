@@ -1,0 +1,13 @@
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Merge Files\bin\Debug\netcoreapp2.1\FileOne.txt
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Merge Files\bin\Debug\netcoreapp2.1\FileTwo.txt
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Merge Files\bin\Debug\netcoreapp2.1\Merge Files.deps.json
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Merge Files\bin\Debug\netcoreapp2.1\Merge Files.runtimeconfig.json
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Merge Files\bin\Debug\netcoreapp2.1\Merge Files.runtimeconfig.dev.json
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Merge Files\bin\Debug\netcoreapp2.1\Merge Files.dll
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Merge Files\bin\Debug\netcoreapp2.1\Merge Files.pdb
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Merge Files\obj\Debug\netcoreapp2.1\Merge Files.csprojAssemblyReference.cache
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Merge Files\obj\Debug\netcoreapp2.1\Merge Files.csproj.CoreCompileInputs.cache
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Merge Files\obj\Debug\netcoreapp2.1\Merge Files.AssemblyInfoInputs.cache
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Merge Files\obj\Debug\netcoreapp2.1\Merge Files.AssemblyInfo.cs
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Merge Files\obj\Debug\netcoreapp2.1\Merge Files.dll
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Merge Files\obj\Debug\netcoreapp2.1\Merge Files.pdb

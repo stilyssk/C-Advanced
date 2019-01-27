@@ -1,0 +1,13 @@
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Word Count\bin\Debug\netcoreapp2.1\Word Count.deps.json
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Word Count\bin\Debug\netcoreapp2.1\Word Count.runtimeconfig.json
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Word Count\bin\Debug\netcoreapp2.1\Word Count.runtimeconfig.dev.json
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Word Count\bin\Debug\netcoreapp2.1\Word Count.dll
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Word Count\bin\Debug\netcoreapp2.1\Word Count.pdb
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Word Count\obj\Debug\netcoreapp2.1\Word Count.csproj.CoreCompileInputs.cache
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Word Count\obj\Debug\netcoreapp2.1\Word Count.AssemblyInfoInputs.cache
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Word Count\obj\Debug\netcoreapp2.1\Word Count.AssemblyInfo.cs
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Word Count\obj\Debug\netcoreapp2.1\Word Count.dll
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Word Count\obj\Debug\netcoreapp2.1\Word Count.pdb
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Word Count\bin\Debug\netcoreapp2.1\text.txt
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Word Count\bin\Debug\netcoreapp2.1\words.txt
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Word Count\obj\Debug\netcoreapp2.1\Word Count.csprojAssemblyReference.cache
