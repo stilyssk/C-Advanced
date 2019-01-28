@@ -1,0 +1,11 @@
+D:\C#Advanced\january2019\C-Advanced\04. Streams-Files-and-Directories-Exercise\Copy Binary File\bin\Debug\netcoreapp2.1\Copy Binary File.deps.json
+D:\C#Advanced\january2019\C-Advanced\04. Streams-Files-and-Directories-Exercise\Copy Binary File\bin\Debug\netcoreapp2.1\Copy Binary File.runtimeconfig.json
+D:\C#Advanced\january2019\C-Advanced\04. Streams-Files-and-Directories-Exercise\Copy Binary File\bin\Debug\netcoreapp2.1\Copy Binary File.runtimeconfig.dev.json
+D:\C#Advanced\january2019\C-Advanced\04. Streams-Files-and-Directories-Exercise\Copy Binary File\bin\Debug\netcoreapp2.1\Copy Binary File.dll
+D:\C#Advanced\january2019\C-Advanced\04. Streams-Files-and-Directories-Exercise\Copy Binary File\bin\Debug\netcoreapp2.1\Copy Binary File.pdb
+D:\C#Advanced\january2019\C-Advanced\04. Streams-Files-and-Directories-Exercise\Copy Binary File\obj\Debug\netcoreapp2.1\Copy Binary File.csprojAssemblyReference.cache
+D:\C#Advanced\january2019\C-Advanced\04. Streams-Files-and-Directories-Exercise\Copy Binary File\obj\Debug\netcoreapp2.1\Copy Binary File.csproj.CoreCompileInputs.cache
+D:\C#Advanced\january2019\C-Advanced\04. Streams-Files-and-Directories-Exercise\Copy Binary File\obj\Debug\netcoreapp2.1\Copy Binary File.AssemblyInfoInputs.cache
+D:\C#Advanced\january2019\C-Advanced\04. Streams-Files-and-Directories-Exercise\Copy Binary File\obj\Debug\netcoreapp2.1\Copy Binary File.AssemblyInfo.cs
+D:\C#Advanced\january2019\C-Advanced\04. Streams-Files-and-Directories-Exercise\Copy Binary File\obj\Debug\netcoreapp2.1\Copy Binary File.dll
+D:\C#Advanced\january2019\C-Advanced\04. Streams-Files-and-Directories-Exercise\Copy Binary File\obj\Debug\netcoreapp2.1\Copy Binary File.pdb
