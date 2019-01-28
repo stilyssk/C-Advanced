@@ -1,0 +1,11 @@
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Folder Size\bin\Debug\netcoreapp2.1\Folder Size.deps.json
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Folder Size\bin\Debug\netcoreapp2.1\Folder Size.runtimeconfig.json
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Folder Size\bin\Debug\netcoreapp2.1\Folder Size.runtimeconfig.dev.json
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Folder Size\bin\Debug\netcoreapp2.1\Folder Size.dll
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Folder Size\bin\Debug\netcoreapp2.1\Folder Size.pdb
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Folder Size\obj\Debug\netcoreapp2.1\Folder Size.csprojAssemblyReference.cache
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Folder Size\obj\Debug\netcoreapp2.1\Folder Size.csproj.CoreCompileInputs.cache
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Folder Size\obj\Debug\netcoreapp2.1\Folder Size.AssemblyInfoInputs.cache
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Folder Size\obj\Debug\netcoreapp2.1\Folder Size.AssemblyInfo.cs
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Folder Size\obj\Debug\netcoreapp2.1\Folder Size.dll
+D:\C#Advanced\january2019\C-Advanced\04.Streams-Files-and-Directories-Lab\Folder Size\obj\Debug\netcoreapp2.1\Folder Size.pdb
