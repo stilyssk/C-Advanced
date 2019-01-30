@@ -1,0 +1,11 @@
+D:\C#Advanced\january2019\C-Advanced\Functional Programming\Filter by Age\bin\Debug\netcoreapp2.1\Filter by Age.deps.json
+D:\C#Advanced\january2019\C-Advanced\Functional Programming\Filter by Age\bin\Debug\netcoreapp2.1\Filter by Age.runtimeconfig.json
+D:\C#Advanced\january2019\C-Advanced\Functional Programming\Filter by Age\bin\Debug\netcoreapp2.1\Filter by Age.runtimeconfig.dev.json
+D:\C#Advanced\january2019\C-Advanced\Functional Programming\Filter by Age\bin\Debug\netcoreapp2.1\Filter by Age.dll
+D:\C#Advanced\january2019\C-Advanced\Functional Programming\Filter by Age\bin\Debug\netcoreapp2.1\Filter by Age.pdb
+D:\C#Advanced\january2019\C-Advanced\Functional Programming\Filter by Age\obj\Debug\netcoreapp2.1\Filter by Age.csprojAssemblyReference.cache
+D:\C#Advanced\january2019\C-Advanced\Functional Programming\Filter by Age\obj\Debug\netcoreapp2.1\Filter by Age.csproj.CoreCompileInputs.cache
+D:\C#Advanced\january2019\C-Advanced\Functional Programming\Filter by Age\obj\Debug\netcoreapp2.1\Filter by Age.AssemblyInfoInputs.cache
+D:\C#Advanced\january2019\C-Advanced\Functional Programming\Filter by Age\obj\Debug\netcoreapp2.1\Filter by Age.AssemblyInfo.cs
+D:\C#Advanced\january2019\C-Advanced\Functional Programming\Filter by Age\obj\Debug\netcoreapp2.1\Filter by Age.dll
+D:\C#Advanced\january2019\C-Advanced\Functional Programming\Filter by Age\obj\Debug\netcoreapp2.1\Filter by Age.pdb
