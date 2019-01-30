@@ -1,0 +1,11 @@
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Action Point\bin\Debug\netcoreapp2.1\Action Point.deps.json
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Action Point\bin\Debug\netcoreapp2.1\Action Point.runtimeconfig.json
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Action Point\bin\Debug\netcoreapp2.1\Action Point.runtimeconfig.dev.json
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Action Point\bin\Debug\netcoreapp2.1\Action Point.dll
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Action Point\bin\Debug\netcoreapp2.1\Action Point.pdb
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Action Point\obj\Debug\netcoreapp2.1\Action Point.csprojAssemblyReference.cache
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Action Point\obj\Debug\netcoreapp2.1\Action Point.csproj.CoreCompileInputs.cache
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Action Point\obj\Debug\netcoreapp2.1\Action Point.AssemblyInfoInputs.cache
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Action Point\obj\Debug\netcoreapp2.1\Action Point.AssemblyInfo.cs
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Action Point\obj\Debug\netcoreapp2.1\Action Point.dll
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Action Point\obj\Debug\netcoreapp2.1\Action Point.pdb

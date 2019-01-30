@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Action_Point
+namespace Knights_of_Honor
 {
     class Program
     {
@@ -10,12 +10,12 @@ namespace Action_Point
             Action<string> print = PrintMessage;
 
             Console.ReadLine()
-                .Split(new[] { ' '},StringSplitOptions.RemoveEmptyEntries)
+                .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
                 .ToList().ForEach(print);
         }
         static void PrintMessage(string inputString)
         {
-            Console.WriteLine(inputString);
+            Console.WriteLine($"Sir {inputString}");
         }
     }
 }

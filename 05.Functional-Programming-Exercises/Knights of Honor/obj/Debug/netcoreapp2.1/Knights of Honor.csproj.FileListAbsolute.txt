@@ -1,0 +1,10 @@
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Knights of Honor\bin\Debug\netcoreapp2.1\Knights of Honor.deps.json
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Knights of Honor\bin\Debug\netcoreapp2.1\Knights of Honor.runtimeconfig.json
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Knights of Honor\bin\Debug\netcoreapp2.1\Knights of Honor.runtimeconfig.dev.json
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Knights of Honor\bin\Debug\netcoreapp2.1\Knights of Honor.dll
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Knights of Honor\bin\Debug\netcoreapp2.1\Knights of Honor.pdb
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Knights of Honor\obj\Debug\netcoreapp2.1\Knights of Honor.csproj.CoreCompileInputs.cache
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Knights of Honor\obj\Debug\netcoreapp2.1\Knights of Honor.AssemblyInfoInputs.cache
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Knights of Honor\obj\Debug\netcoreapp2.1\Knights of Honor.AssemblyInfo.cs
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Knights of Honor\obj\Debug\netcoreapp2.1\Knights of Honor.dll
+D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Knights of Honor\obj\Debug\netcoreapp2.1\Knights of Honor.pdb
