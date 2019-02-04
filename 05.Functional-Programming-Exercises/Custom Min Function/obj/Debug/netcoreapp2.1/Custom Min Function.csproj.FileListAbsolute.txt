@@ -1,4 +1,3 @@
-D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Custom Min Function\obj\Debug\netcoreapp2.1\Custom Min Function.csprojAssemblyReference.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Custom Min Function\obj\Debug\netcoreapp2.1\Custom Min Function.csproj.CoreCompileInputs.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Custom Min Function\obj\Debug\netcoreapp2.1\Custom Min Function.AssemblyInfoInputs.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Custom Min Function\obj\Debug\netcoreapp2.1\Custom Min Function.AssemblyInfo.cs

@@ -16,6 +16,7 @@ namespace Reverse_and_Exclude
             Func<List<int>, int, List<int>> funcReverceAndRemoveElemen = ReverceAndRemoveElemen;
             Console.WriteLine(string.Join(' ',funcReverceAndRemoveElemen(inputIntData,divider)));
         }
+
         static List<int> ReverceAndRemoveElemen(List<int> tempInputData,int divider)
         {
             Predicate<int> predicateRemove = x => x % divider == 0;

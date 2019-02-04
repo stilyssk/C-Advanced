@@ -66,6 +66,7 @@ namespace Applied_Arithmetics
             }
 
         }
+
         static List<int> Add(List<int> tempInputData)
         {
 
@@ -75,6 +76,7 @@ namespace Applied_Arithmetics
             }
             return tempInputData;
         }
+
         static List<int> Subtract(List<int> tempInputData)
         {
 
@@ -84,6 +86,7 @@ namespace Applied_Arithmetics
             }
             return tempInputData;
         }
+
         static List<int> Multiply(List<int> tempInputData)
         {
 

@@ -13,6 +13,7 @@ namespace Knights_of_Honor
                 .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
                 .ToList().ForEach(print);
         }
+
         static void PrintMessage(string inputString)
         {
             Console.WriteLine($"Sir {inputString}");

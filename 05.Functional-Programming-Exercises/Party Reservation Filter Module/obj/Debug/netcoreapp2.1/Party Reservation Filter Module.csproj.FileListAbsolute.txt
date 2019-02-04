@@ -3,7 +3,6 @@ D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Party R
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Party Reservation Filter Module\bin\Debug\netcoreapp2.1\Party Reservation Filter Module.runtimeconfig.dev.json
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Party Reservation Filter Module\bin\Debug\netcoreapp2.1\Party Reservation Filter Module.dll
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Party Reservation Filter Module\bin\Debug\netcoreapp2.1\Party Reservation Filter Module.pdb
-D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Party Reservation Filter Module\obj\Debug\netcoreapp2.1\Party Reservation Filter Module.csprojAssemblyReference.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Party Reservation Filter Module\obj\Debug\netcoreapp2.1\Party Reservation Filter Module.csproj.CoreCompileInputs.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Party Reservation Filter Module\obj\Debug\netcoreapp2.1\Party Reservation Filter Module.AssemblyInfoInputs.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Party Reservation Filter Module\obj\Debug\netcoreapp2.1\Party Reservation Filter Module.AssemblyInfo.cs

@@ -3,7 +3,6 @@ D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\TriFunc
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\TriFunction\bin\Debug\netcoreapp2.1\TriFunction.runtimeconfig.dev.json
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\TriFunction\bin\Debug\netcoreapp2.1\TriFunction.dll
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\TriFunction\bin\Debug\netcoreapp2.1\TriFunction.pdb
-D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\TriFunction\obj\Debug\netcoreapp2.1\TriFunction.csprojAssemblyReference.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\TriFunction\obj\Debug\netcoreapp2.1\TriFunction.csproj.CoreCompileInputs.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\TriFunction\obj\Debug\netcoreapp2.1\TriFunction.AssemblyInfoInputs.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\TriFunction\obj\Debug\netcoreapp2.1\TriFunction.AssemblyInfo.cs

@@ -3,7 +3,6 @@ D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Predica
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Predicate Party\bin\Debug\netcoreapp2.1\Predicate Party.runtimeconfig.dev.json
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Predicate Party\bin\Debug\netcoreapp2.1\Predicate Party.dll
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Predicate Party\bin\Debug\netcoreapp2.1\Predicate Party.pdb
-D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Predicate Party\obj\Debug\netcoreapp2.1\Predicate Party.csprojAssemblyReference.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Predicate Party\obj\Debug\netcoreapp2.1\Predicate Party.csproj.CoreCompileInputs.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Predicate Party\obj\Debug\netcoreapp2.1\Predicate Party.AssemblyInfoInputs.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Predicate Party\obj\Debug\netcoreapp2.1\Predicate Party.AssemblyInfo.cs

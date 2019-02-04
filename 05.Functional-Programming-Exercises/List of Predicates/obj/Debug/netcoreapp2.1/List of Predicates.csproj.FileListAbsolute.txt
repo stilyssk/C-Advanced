@@ -3,7 +3,6 @@ D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\List of
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\List of Predicates\bin\Debug\netcoreapp2.1\List of Predicates.runtimeconfig.dev.json
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\List of Predicates\bin\Debug\netcoreapp2.1\List of Predicates.dll
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\List of Predicates\bin\Debug\netcoreapp2.1\List of Predicates.pdb
-D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\List of Predicates\obj\Debug\netcoreapp2.1\List of Predicates.csprojAssemblyReference.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\List of Predicates\obj\Debug\netcoreapp2.1\List of Predicates.csproj.CoreCompileInputs.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\List of Predicates\obj\Debug\netcoreapp2.1\List of Predicates.AssemblyInfoInputs.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\List of Predicates\obj\Debug\netcoreapp2.1\List of Predicates.AssemblyInfo.cs

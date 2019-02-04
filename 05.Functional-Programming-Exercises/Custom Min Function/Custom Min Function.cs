@@ -20,6 +20,7 @@ namespace Custom_Min_Function
             }
             Console.WriteLine(result);
         }
+
         static int Min(int x, int y)
         {
             if (x < y)

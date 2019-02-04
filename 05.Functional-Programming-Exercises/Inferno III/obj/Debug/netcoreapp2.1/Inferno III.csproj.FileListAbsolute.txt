@@ -3,7 +3,6 @@ D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Inferno
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Inferno III\bin\Debug\netcoreapp2.1\Inferno III.runtimeconfig.dev.json
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Inferno III\bin\Debug\netcoreapp2.1\Inferno III.dll
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Inferno III\bin\Debug\netcoreapp2.1\Inferno III.pdb
-D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Inferno III\obj\Debug\netcoreapp2.1\Inferno III.csprojAssemblyReference.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Inferno III\obj\Debug\netcoreapp2.1\Inferno III.csproj.CoreCompileInputs.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Inferno III\obj\Debug\netcoreapp2.1\Inferno III.AssemblyInfoInputs.cache
 D:\C#Advanced\january2019\C-Advanced\05.Functional-Programming-Exercises\Inferno III\obj\Debug\netcoreapp2.1\Inferno III.AssemblyInfo.cs

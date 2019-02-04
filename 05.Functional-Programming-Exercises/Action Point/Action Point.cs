@@ -13,6 +13,7 @@ namespace Action_Point
                 .Split(new[] { ' '},StringSplitOptions.RemoveEmptyEntries)
                 .ToList().ForEach(print);
         }
+
         static void PrintMessage(string inputString)
         {
             Console.WriteLine(inputString);
