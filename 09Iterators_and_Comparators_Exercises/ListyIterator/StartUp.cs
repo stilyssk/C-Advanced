@@ -36,9 +36,6 @@ namespace ListyIterator
                         case "Print":
                             newListyIterator.Print();
                             break;
-                        case "PrintAll":
-                            newListyIterator.PrintAll();
-                            break;
                         case "HasNext":
                             Console.WriteLine(newListyIterator.HasNext());
                             break;

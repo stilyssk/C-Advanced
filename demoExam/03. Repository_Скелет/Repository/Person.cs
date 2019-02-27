@@ -1,16 +1,16 @@
 ﻿using System;
 
-namespace StrategyPattern
-{
-    public class Person : IComparable<Person>
+
+    public class Person
     {
         private string name;
         private int age;
-
-        public Person(string name,int age)
+        private DateTime birthdate;
+        public Person(string name, int age, DateTime birthdate)
         {
             this.Name = name;
             this.Age = age;
+            this.Birthdate = birthdate;
         }
 
         public string Name
@@ -24,10 +24,10 @@ namespace StrategyPattern
             get { return this.age; }
             set { this.age = value; }
         }
-
-        public int CompareTo(Person other)
+        public DateTime Birthdate
         {
-            return this.Age.CompareTo(other.Age);
+            get { return this.birthdate; }
+            set { this.birthdate = value; }
         }
     }
-}
+

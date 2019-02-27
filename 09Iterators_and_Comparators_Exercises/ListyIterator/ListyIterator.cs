@@ -32,8 +32,10 @@ namespace ListyIterator
             index++;
             if (this.storeListOfData.Count > this.index)
             {
+                
                 return true;
             }
+            index--;
             return false;
         }
 

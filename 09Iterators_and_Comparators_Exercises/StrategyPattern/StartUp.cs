@@ -9,6 +9,7 @@ namespace StrategyPattern
         static void Main(string[] args)
         {
             var listOfPerson = new List<Person>();
+            var sortedSetPerson = new SortedSet<Person>();
             int repeat = int.Parse(Console.ReadLine());
             for (int i = 0; i < repeat; i++)
             {
@@ -20,6 +21,7 @@ namespace StrategyPattern
                 Person newPerson = new Person(name, age);
 
                 listOfPerson.Add(newPerson);
+                sortedSetPerson.Add(newPerson);
             }
 
             ComparePersonUp comparePersonUp = new ComparePersonUp();
@@ -28,9 +30,14 @@ namespace StrategyPattern
             {
                 Console.WriteLine($"{person.Name} {person.Age}");
             }
-            ComparePersonDown comparePersonDown = new ComparePersonDown();
-            listOfPerson.Sort(comparePersonDown);
-            foreach (var person in listOfPerson)
+            //ComparePersonDown comparePersonDown = new ComparePersonDown();
+            //listOfPerson.Sort(comparePersonDown);
+            //foreach (var person in listOfPerson)
+            //{
+            //    Console.WriteLine($"{person.Name} {person.Age}");
+            //}
+            //Console.WriteLine();
+            foreach (var person in sortedSetPerson)
             {
                 Console.WriteLine($"{person.Name} {person.Age}");
             }

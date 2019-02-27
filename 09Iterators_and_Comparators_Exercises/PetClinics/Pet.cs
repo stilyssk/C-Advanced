@@ -1,16 +1,16 @@
-﻿using System;
-
-namespace StrategyPattern
+﻿namespace PetClinics
 {
-    public class Person : IComparable<Person>
+    public class Pet
     {
         private string name;
         private int age;
+        private string kind;
 
-        public Person(string name,int age)
+        public Pet(string name, int age, string kind)
         {
             this.Name = name;
             this.Age = age;
+            this.Kind = kind;
         }
 
         public string Name
@@ -25,9 +25,11 @@ namespace StrategyPattern
             set { this.age = value; }
         }
 
-        public int CompareTo(Person other)
+        public string Kind
         {
-            return this.Age.CompareTo(other.Age);
+            get { return this.kind; }
+            set { this.kind = value; }
         }
+
     }
 }

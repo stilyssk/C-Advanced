@@ -33,7 +33,7 @@ namespace ComparingObjects
             int compareIndex = int.Parse(Console.ReadLine())-1;
 
             var comparePerson = listOfPerson[compareIndex];
-            var repeatPerson = listOfPerson.Where(x => x.Name == "Gogo").ToList();
+            var repeatPerson = listOfPerson.Where(x => x.Name == listOfPerson[compareIndex].Name).ToList();
             int countRepeatPerson = repeatPerson.Count();
             int allCountPerson = listOfPerson.Count();
             if (countRepeatPerson==1)
